@@ -39,8 +39,9 @@ To find the sum of Quantity sales
  
  October high  - sales 6495
  
+ 
   highest pay customer name Hrivansh 9902
   top 5 state
-  Maharashtra , Madhya Pradesh.Uttar Pradesh
-  Delhi,Rajasthan
+  Maharashtra , Madhya Pradesh,Uttar Pradesh
+  Delhi,Rajasthan.
   
